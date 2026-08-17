@@ -1,5 +1,3 @@
-# Hi, I'm Seema 👋
-
 # 👋 Hi, I'm Seema Bhavsar
 
 ### Senior QA / Quality Engineering Leader | Generative AI | Prompt Engineering | AI Workflow Automation
