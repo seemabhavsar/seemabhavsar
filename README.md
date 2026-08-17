@@ -89,4 +89,5 @@ My enterprise experience provides a foundation for AI Engineering through:
 
 **Generative AI • Prompt Engineering • Agentic Workflows • AI-led Productivity • Quality-focused AI Adoption**
 
-Lets connect -  https://www.linkedin.com/in/seema-bhavsar/
+Let's connect 📲
+LinkedIn -  https://www.linkedin.com/in/seema-bhavsar/
